@@ -1,6 +1,8 @@
 <?php
 namespace LumbralesSoftware\HelloWorld\Block;
 
+use Magento\Framework\View\Element\Template;
+
 /**
  * HelloWorld
  *
@@ -9,6 +11,6 @@ namespace LumbralesSoftware\HelloWorld\Block;
  * @copyright 2015, Lumbrales Software
  * @author Javier Carrascal <info@lumbrales-software.com>
  */
-class HelloWorld extends \Magento\Framework\View\Element\Template
+class HelloWorld extends Template
 {
 }

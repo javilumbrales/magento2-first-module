@@ -1,0 +1,24 @@
+{
+    "name": "lumbrales-software/magento2-first-module",
+    "description": "Hello world module using composer!",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "LumbralesSoftware/HelloWorld"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Javi Lumbrales",
+            "homepage": "https://www.lumbrales-software.com/",
+            "role": "Developer"
+        }
+    ]
+}
