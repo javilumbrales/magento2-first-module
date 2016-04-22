@@ -37,3 +37,7 @@ In order to install it run the below command on the root directory:
 Feel free to contribute, and contact me for any issues.
 
 You can also drop us a comment at www.thedeveloperworldisyours.com/php/create-magento-2-composer-module/
+
+# Version
+
+Updated to version 0.1.1 to demonstrate the handling of module updates via composer and tags

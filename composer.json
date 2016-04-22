@@ -2,7 +2,6 @@
     "name": "lumbrales-software/magento2-first-module",
     "description": "Hello world module using composer!",
     "require": {
-        "magento/project-community-edition": "*"
     },
     "type": "magento2-module",
     "version": "0.1.0",
