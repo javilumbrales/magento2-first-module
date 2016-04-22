@@ -41,3 +41,4 @@ You can also drop us a comment at www.thedeveloperworldisyours.com/php/create-ma
 # Version
 
 Updated to version 1.0.1 to achieve a stable version and demonstrate the handling of module updates via composer and tags
+Updated to version 1.0.2 to test module update via composer and tags
